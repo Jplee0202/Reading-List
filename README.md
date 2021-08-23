@@ -1,6 +1,6 @@
 # Reading-List
 
-## natural language processing
+## Reasoning
 * **Neural Module Networks:** Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, 2015
 
   Instead of a huge network, but multiple nerual moudles which implement different steps of the reasoning.
